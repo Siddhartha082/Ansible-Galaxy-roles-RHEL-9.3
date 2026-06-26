@@ -43,5 +43,10 @@ Example Playbook
 
 <img width="415" height="234" alt="image" src="https://github.com/user-attachments/assets/c1cf2960-6587-41c6-acf9-75566a16332c" />
 
+# Browser
+
+<img width="1269" height="201" alt="image" src="https://github.com/user-attachments/assets/aa87020a-ccb1-4d95-970f-58edcefe6af3" />
+
+
 
 
